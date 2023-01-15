@@ -21,3 +21,5 @@ My Solution to DeepLearning.AI TensorFlow Developer Certificate Course 4 : Seque
 ## Train, Val, Test
 - Splitting the time series into training, validation and test period
 ![Week1_TrainValTest.png](https://github.com/Lim-Calculus/Sequence-Time-Seires-and-Predictions/blob/main/Images/Week1_TrainValTest.png)
+## Metrics FOr Evaluating Performance
+![Week1_MetricsForEvaluatingPerformance.png](https://github.com/Lim-Calculus/Sequence-Time-Seires-and-Predictions/blob/main/Images/Week1_MetricsForEvaluatingPerformance.png)
