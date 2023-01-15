@@ -11,3 +11,12 @@ My Solution to DeepLearning.AI TensorFlow Developer Certificate Course 4 : Seque
 ![Imputation in Moore's Law](https://github.com/Lim-Calculus/Sequence-Time-Seires-and-Predictions/blob/main/Images/Week1_Moore'sLaw_ImputedData.png)
 ![Week1_ImputedData.png](https://github.com/Lim-Calculus/Sequence-Time-Seires-and-Predictions/blob/main/Images/Week1_ImputedData.png)
 
+## Common Pattern in Time Series
+- Trend : Where time series have a specific direction that they are moving (Example : Moore's Law)
+- Seasonality : pattern repeat at predictable intervals
+![Week1_Seasonality.png](https://github.com/Lim-Calculus/Sequence-Time-Seires-and-Predictions/blob/main/Images/Week1_Seasonality.png)
+- White noise : random value
+- Autocorrelation :  it correlates with a delayed copy of itself often called a lag
+![Week1_Autocorrelation.png](https://github.com/Lim-Calculus/Sequence-Time-Seires-and-Predictions/blob/main/Images/Week1_Autocorrelation.png)
+## Train, Val, Test
+- Splitting the time series into training, validation and test period
