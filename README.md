@@ -20,3 +20,4 @@ My Solution to DeepLearning.AI TensorFlow Developer Certificate Course 4 : Seque
 ![Week1_Autocorrelation.png](https://github.com/Lim-Calculus/Sequence-Time-Seires-and-Predictions/blob/main/Images/Week1_Autocorrelation.png)
 ## Train, Val, Test
 - Splitting the time series into training, validation and test period
+![Week1_TrainValTest.png](https://github.com/Lim-Calculus/Sequence-Time-Seires-and-Predictions/blob/main/Images/Week1_TrainValTest.png)
