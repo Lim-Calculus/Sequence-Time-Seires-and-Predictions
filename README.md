@@ -23,3 +23,5 @@ My Solution to DeepLearning.AI TensorFlow Developer Certificate Course 4 : Seque
 ![Week1_TrainValTest.png](https://github.com/Lim-Calculus/Sequence-Time-Seires-and-Predictions/blob/main/Images/Week1_TrainValTest.png)
 ## Metrics FOr Evaluating Performance
 ![Week1_MetricsForEvaluatingPerformance.png](https://github.com/Lim-Calculus/Sequence-Time-Seires-and-Predictions/blob/main/Images/Week1_MetricsForEvaluatingPerformance.png)
+# Week 3 - Recurrent Neural Network in Time Series Predictions
+## Recurrent Neural Network : A recurrent neural network (RNN) is a special type of artificial neural network adapted to work for time series data or data that involves sequences.
